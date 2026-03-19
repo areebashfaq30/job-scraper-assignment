@@ -1,6 +1,7 @@
 selenium==4.15.2
 scrapy==2.11.1
-pandas==2.1.4
+pandas==2.2.2
+matplotlib==3.9.2
 jupyter==1.0.0
-matplotlib==3.8.2
-
+webdriver-manager==4.0.2
+numpy==2.1.1
